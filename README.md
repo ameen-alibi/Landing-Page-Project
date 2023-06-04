@@ -23,7 +23,7 @@ The goal of this project is to develop a responsive landing page using HTML and 
 The project structure will be organized as follows:
 
 - `index.html`: The main HTML file for the landing page.
-- `styles.css`: The CSS file to style the landing page.
+- `style.css`: The CSS file to style the landing page.
 
 ## Resources
 
